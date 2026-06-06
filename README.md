@@ -145,17 +145,6 @@ If you find this work useful, please consider citing:
 
 ---
 
-## 👥 LatihanGemastikHUHA
-
-| Member | 
-|--------|
-| Adyatma |
-
----
-
-## 📬 Contact
-
-For questions or collaboration, feel free to open an [Issue](https://github.com/GemastikGassYaa-boop/NgetesFloodnet/issues) on this repository.
 
 ---
 
